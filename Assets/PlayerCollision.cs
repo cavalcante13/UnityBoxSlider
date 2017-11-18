@@ -4,6 +4,7 @@ public class PlayerCollision : MonoBehaviour {
 
 
 	void OnCollisionEnter() {
-		
+
+
 	}
 }
